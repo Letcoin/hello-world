@@ -1,2 +1,1 @@
-# hello-world
-Just a repository for Letcoin
+#Starting a journey on Letcoin
